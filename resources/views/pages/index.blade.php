@@ -5,7 +5,7 @@
 @endsection
 
 @section('content')
-{{-- test --}}
+{{-- test xxx--}}
     <!-- PAGE-HEADER -->
     <div class="page-header">
         <div>
